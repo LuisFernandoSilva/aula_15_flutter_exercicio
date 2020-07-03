@@ -1,16 +1,13 @@
-# aula_15_flutter_exercicio
+# Exercicio aula 15 do bootcamp growdev advanced-flutter:
 
-A new Flutter project.
+<h6>Para nos treinar os novos recursos aprendidos na call, vamos fazer um app para clonar o cartão do nubank,
 
-## Getting Started
+Vocês podem fazer para ficar parecido com os da imagem.
 
-This project is a starting point for a Flutter application.
+Segue alguns padrões que usamos:
 
-A few resources to get you started if this is your first Flutter project:
+Background da tela: RGB 153, 51, 153, .5 (opacity)
+Background do AppBar e do Cartão: RGB 109, 33, 119, 1 (opacity)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+imagens exemplo:</h6>
